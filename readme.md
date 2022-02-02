@@ -6,4 +6,4 @@ npm i
 npm test
 ```
 
-All the tests will pass, the first test should not pass.
+All tests should pass, the first one using `E2EPage.setContent` does not.
